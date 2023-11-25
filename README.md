@@ -12,6 +12,7 @@ Solving common coding interview questions by understanding essential patterns be
 ## Two pointers
 
 - [Valid Palindrome](https://github.com/dipshanadh/question-patterns/blob/main/two-pointers/valid-palindrome.cpp)
+- [Remove nth Node from End of List](https://github.com/dipshanadh/question-patterns/blob/main/two-pointers/remove-nth-node-from-end-of-list.cpp)
 
 # Usage
 
