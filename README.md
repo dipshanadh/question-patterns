@@ -17,6 +17,10 @@ Solving common coding interview questions by understanding essential patterns be
 - [Reverse Words](https://github.com/dipshanadh/question-patterns/blob/main/two-pointers/reverse-words.cpp)
 - [Valid Palindrome II](https://github.com/dipshanadh/question-patterns/blob/main/two-pointers/valid-palindrome-ii.cpp)
 
+## Fast and Slow ponters
+
+- [Happy Number](https://github.com/dipshanadh/question-patterns/blob/main/fast-and-slow-pointers/happy-number.cpp)
+
 # Usage
 
 Navigate to the required problem from above list and just paste the solution class into your LeetCode editor.
