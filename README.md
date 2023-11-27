@@ -21,6 +21,7 @@ Solving common coding interview questions by understanding essential patterns be
 
 - [Happy Number](https://github.com/dipshanadh/question-patterns/blob/main/fast-and-slow-pointers/happy-number.cpp)
 - [Linked List Cycle](https://github.com/dipshanadh/question-patterns/blob/main/fast-and-slow-pointers/linked-list-cycle.cpp)
+- [Middle of Linked List](https://github.com/dipshanadh/question-patterns/blob/main/fast-and-slow-pointers/middle-of-linked-list.cpp)
 
 # Usage
 
