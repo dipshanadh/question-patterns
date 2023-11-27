@@ -20,6 +20,7 @@ Solving common coding interview questions by understanding essential patterns be
 ## Fast and Slow ponters
 
 - [Happy Number](https://github.com/dipshanadh/question-patterns/blob/main/fast-and-slow-pointers/happy-number.cpp)
+- [Linked List Cycle](https://github.com/dipshanadh/question-patterns/blob/main/fast-and-slow-pointers/linked-list-cycle.cpp)
 
 # Usage
 
