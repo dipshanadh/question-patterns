@@ -24,6 +24,10 @@ Solving common coding interview questions by understanding essential patterns be
 - [Middle of Linked List](https://github.com/dipshanadh/question-patterns/blob/main/fast-and-slow-pointers/middle-of-linked-list.cpp)
 - [Palindrome Linked List](https://github.com/dipshanadh/question-patterns/blob/main/fast-and-slow-pointers/palindrome-linked-list.cpp)
 
+## Sliding Window
+
+- [Repeated DNA Sequences](https://github.com/dipshanadh/question-patterns/blob/main/sliding-window/repeated-dna-sequences.cpp)
+
 # Usage
 
 Navigate to the required problem from above list and just paste the solution class into your LeetCode editor.
