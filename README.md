@@ -29,6 +29,7 @@ Solving common coding interview questions by understanding essential patterns be
 - [Repeated DNA Sequences](https://github.com/dipshanadh/question-patterns/blob/main/sliding-window/repeated-dna-sequences.cpp)
 - [Sliding Window Maximum](https://github.com/dipshanadh/question-patterns/blob/main/sliding-window/sliding-window-maximum.cpp)
 - [Best Time to Buy and Sell Stock](https://github.com/dipshanadh/question-patterns/blob/main/sliding-window/best-time-to-buy-and-sell-stock.cpp)
+- [Minimum Size Subarray Sum](https://github.com/dipshanadh/question-patterns/blob/main/sliding-window/minimum-size-subarray-sum.cpp)
 
 # Usage
 
